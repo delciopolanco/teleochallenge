@@ -1,0 +1,27 @@
+type Kid {
+  id: ID!
+  name: String!
+  screenshots: [Screenshot!]!
+}
+
+type Screenshot {
+  id: ID!
+  imageUrl: String!
+  description: String
+}
+
+type Query {
+  kid(id: ID!): Kid
+}
+
+query GetKidScreenshots($kidId: ID!) {
+  kid(id: $kidId) {
+    id
+    name
+    screenshots {
+      id
+      imageUrl
+      description
+    }
+  }
+}
