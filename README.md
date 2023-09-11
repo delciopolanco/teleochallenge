@@ -26,11 +26,11 @@ include in later iterations?
 If you have time, please cover any v0 edge cases in your code.
 Submission
 
-Please submit the following to julia@teleo.space within 2 hours of opening this task description:
+Please submit the following to xxx@teleo.space within 2 hours of opening this task description:
 ● your responses
 ● your code
 ● a screenshot of your rendered component
 
 Because of email attachment restrictions, it may be easiest to create a private GitHub repository
-with your responses and invite julia@teleo.space as a collaborator, or send a ZIP file via email
+with your responses and invite xxxx@teleo.space as a collaborator, or send a ZIP file via email
 or a file sharing service. Thank you!
